@@ -1,0 +1,6 @@
+*
+!3proxy-base.cfg
+!common-env.sh
+!app-env.sh
+!docker-entrypoint.sh
+!Dockerfile
